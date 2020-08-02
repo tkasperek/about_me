@@ -29,9 +29,9 @@
   
       ,"page1": {
           "title": "Resume",
-          "content": "LinkedIn .",
-          "url": "https://tkasperek.github.io/about_me/Resume/",
-          "relUrl": "/Resume/",
+          "content": "LinkedIn . .",
+          "url": "https://tkasperek.github.io/about_me/resume/",
+          "relUrl": "/resume/",
           "date": ""
       }
       
