@@ -28,5 +28,5 @@ We see more and more GAN applications in many creative fields like marketing, et
 ![]({{ site.baseurl }}/images/project-dog_breed_detector.png  )  
 
 This app prototype use output from multiple neural networks to output dog breed name for dog or human pictures.  
-So now you can know how do you classify in dogs' world :)
+So now you can know how do you classify in dogs' world :)  
 [Link to notebook](https://github.com/tkasperek/projects/blob/main/dog_bread_detector_with_CNN.ipynb)
