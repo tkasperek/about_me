@@ -13,6 +13,14 @@ With object detection frameworks like Detectron2 or MMDetection we can achive be
 
 ---  
 
+# LSTM sentiment analysis for webapp on AWS
+
+![]({{ site.baseurl }}/images/projects-aws_sagemaker.png)  
+
+Dataset was set on S3. With use of Sagemaker and web API a webapp was deployed.  
+
+---  
+
 # GAN face images generator  
 
 ![]({{ site.baseurl }}/images/project-gan_faces.png)  
