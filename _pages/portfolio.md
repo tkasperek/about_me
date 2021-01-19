@@ -12,4 +12,8 @@ Object detection and classification used to be solved as two seperate problems. 
 
 ---  
 
-## proj2
+## GAN face images generator  
+
+![]({{ site.baseurl }}/images/project-gan_faces.png "proj1")  
+
+[Link to notebook](https://github.com/tkasperek/about_me/blob/master/_notebooks/2020-07-01-GAN_generating_faces.ipynb)
