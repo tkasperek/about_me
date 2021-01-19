@@ -31,7 +31,7 @@
   
       ,"page2": {
           "title": "Portfolio",
-          "content": "Defect detection and classification for manufacturing process with use of Detectron2 . . Object detection and classification used to be solved as two seperate problems. With frameworks like Detectron2 or MMDetection we can achive better performance with simpler worflow. Link to notebook . . GAN face images generator . . Link to notebook .",
+          "content": "Defect detection and classification for manufacturing process with use of Detectron2 . . Object detection and classification used to be solved as two seperate problems: object localization -&gt; classifiction. With object detection frameworks like Detectron2 or MMDetection we can achive better performance with simpler worflow. Link to notebook . . GAN face images generator . . Dataset of celebs photos was used to train a Generative Adversarial Network to obtain newly generated faces. We see more and more GAN applications in many creative fields like marketing, etc. Link to notebook . . Dog breed classifier used in app prototype . . This app prototype use output from multiple neural networks to output dog breed name for dog or human pictures. So now you can know how do you classify in dogs’ world :) Link to notebook .",
           "url": "https://tkasperek.github.io/about_me/portfolio/",
           "relUrl": "/portfolio/",
           "date": ""
